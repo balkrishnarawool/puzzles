@@ -1,6 +1,6 @@
 Complex Puzzle
 
-Your task is to find a secret message. The message is written on a paper with ink-drops. The ink used is special, so it is visible through the paper.
+Your task is to find a secret message. The message is written on a paper with ink-drops. The paper is transparent, so the ink is visible through the paper.
 
 In the below input, the `#` represents an ink-drop and a `.` represents an empty space.
 ```
