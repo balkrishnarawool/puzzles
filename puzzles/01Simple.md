@@ -21,4 +21,4 @@ D
 B
 ```
 Here A occurs 4 times, B occurs 2 times, C occurs 3 times and D occurs 5 times.
-So your answer is `D5`.
+So the answer is `D5`.
